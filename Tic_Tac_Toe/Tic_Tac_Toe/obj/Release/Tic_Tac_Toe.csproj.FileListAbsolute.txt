@@ -1,0 +1,8 @@
+G:\ASPNET\Tic_Tac_Toe\Tic_Tac_Toe\bin\Release\Tic_Tac_Toe.exe.config
+G:\ASPNET\Tic_Tac_Toe\Tic_Tac_Toe\bin\Release\Tic_Tac_Toe.exe
+G:\ASPNET\Tic_Tac_Toe\Tic_Tac_Toe\bin\Release\Tic_Tac_Toe.pdb
+G:\ASPNET\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.Form1.resources
+G:\ASPNET\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.Properties.Resources.resources
+G:\ASPNET\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.csproj.GenerateResource.Cache
+G:\ASPNET\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.exe
+G:\ASPNET\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.pdb
