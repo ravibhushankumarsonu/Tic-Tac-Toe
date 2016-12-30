@@ -7,4 +7,3 @@ G:\ASPNET\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.res
 G:\ASPNET\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.GenerateResource.Cache
 G:\ASPNET\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.exe
 G:\ASPNET\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.pdb
-G:\ASPNET\Tic_tac_toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.Form2.resources
